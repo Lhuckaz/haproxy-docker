@@ -1,0 +1,10 @@
+proxy:
+  image: tutum/haproxy
+  ports:
+    - "80:80"
+  links:
+    - "web:web"
+web:
+  image: httpd
+  ports:
+    - "80"
