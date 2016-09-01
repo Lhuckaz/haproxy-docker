@@ -1,6 +1,6 @@
 # haproxy-docker
 
-Para utilizar 
+Para utilizar: 
 
     git clone https://github.com/Lhuckaz/haproxy-docker.git
     cd haproxy-docker
