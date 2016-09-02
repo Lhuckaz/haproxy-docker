@@ -6,3 +6,4 @@ Para utilizar:
     cd haproxy-docker
     docker-compose up
     
+Acessar http://\<host\>
